@@ -13,4 +13,4 @@ Utility requires module ``html5lib`` (``html5lib`` requires ``six``).
 Status
 ------
 
-Developer version
+Beta release fabella_info-0.1.1 .
