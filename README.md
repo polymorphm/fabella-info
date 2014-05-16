@@ -1,7 +1,7 @@
-lor-registrator
-===============
+fabella_info
+============
 
-``lor-registrator`` is utility for test fabella_info web-site.
+``fabella_info`` is utility for test fabella_info web-site.
 
 
 Requirements
